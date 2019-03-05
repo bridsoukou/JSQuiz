@@ -1,0 +1,19 @@
+body {
+	font-family:monospace;
+	text-align:center;
+	background-color:black;
+	color:white;
+}
+
+button {
+	color: white;
+	font-family: monospace;
+	font-size: 18px;
+	padding: 5px;
+	margin: 10px;
+	background: black;
+	border-color: white;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: thick;
+}
